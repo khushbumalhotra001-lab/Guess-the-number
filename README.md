@@ -34,7 +34,7 @@ Github
 # 4. Steps to Install and Run the project
 Step 1: Download or Clone the Repository Clone the GitHub repository using:
 
-git clone https://github.com/malhotra26bce11457-dotcom/guess-the-number.git
+git clone https://github.com/khushbumalhotra001-lab/guess-the-number.git
 Step 2: Open the project folder Open the downloaded project folder in a python-compatible code editor. Step 3: Run the python program Run the following command in the terminal: python "Guess the number.py"
 
 # 5. Testing Instructions
@@ -55,6 +55,8 @@ input: 36 Expected output: Woohoo! you guessed the number correctly.
 Test case 4: Maximum attempts If the player is not able to guess the number for all 10 attempts Expected output: Sorry! you have used all your 10 attempts. The correct number was:[ number]
 
 # 6. Screenshots
+<img width="1920" height="1200" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/8cd96836-c79b-40b3-8d6a-35d43f550921" />
+
 guess_random_number
 # 7. Problem Statement
 Guess the number is an interesting Python-based game in which the computer generated a random number between 1 and 100. The player has to guess the number within a maximum of 10 attempts. After each guess made by the player, the program gives a message to help the player:
