@@ -34,7 +34,7 @@ Github
 # 4. Steps to Install and Run the project
 Step 1: Download or Clone the Repository Clone the GitHub repository using:
 
-git clone https://github.com/khushbumalhotra001-lab/guess-the-number.git
+git clone https://github.com/khushbumalhotra001-lab/Guess-the-number.git
 Step 2: Open the project folder Open the downloaded project folder in a python-compatible code editor. Step 3: Run the python program Run the following command in the terminal: python "Guess the number.py"
 
 # 5. Testing Instructions
